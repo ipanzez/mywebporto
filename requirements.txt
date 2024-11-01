@@ -119,3 +119,4 @@ Werkzeug==3.1.0
 widgetsnbextension==4.0.8
 zipp==3.16.2
 zope.interface==7.1.1
+pywin32;sys_platform == 'win32'
